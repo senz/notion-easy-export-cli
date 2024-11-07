@@ -1,6 +1,6 @@
 # Notion Easy Export CLI
 
-CLI tool to export Notion pages to markdown files.
+CLI tool to export Notion pages to PDF files.
 Wrapper around `notion-easy-export` package.
 
 Uses [yargs](https://github.com/yargs/yargs). Ahoi!
